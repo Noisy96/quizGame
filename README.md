@@ -1,2 +1,2 @@
 # quizGame
-A quickly made quiz game made by *Java Swing*
+A quickly made quiz game using *Java Swing*
