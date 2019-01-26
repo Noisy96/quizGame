@@ -1,0 +1,64 @@
+A-Sport-How many players form a team in the game of football ?-12-9-11-10-3
+A-Cinema-Where do people watch new movies ?-Movie Theater-Cinema-Opera-Blockbuster-1
+A-Nature-Which animal lays eggs ?-Crocodile-Dog-Bat-Whale-1
+A-Technology-Which one of the inventions came first ?-Television-Internet-Radio-Telephone-3
+A-Science-What is the chemical formula for water ?-HO2-H20-2HO-H2O2-2
+A-Art-Which of these is not considered as an art form ?-Painting-Music-Accounting-Dancing-3
+A-Geography-In which continant is Portugal located ?-Africa-Europe-Asia-South America-2
+A-History-At what year did Algeria gain its indepencence ?-1952-1830-1955-1962-4
+B-Sport-How long does a game of football lasts when adding extratime in minutes?-120-190-110-100-1
+B-Cinema-What movie was starred by Will Smith ?-A Beautiful Mind-Lone Ranger-Pursuit Of Happyness-The Room-3
+B-Nature-What is the average livespan of a dog in years ?-5 to 8-10 to 13-15 to 16-20 to 22-2
+B-Technology-Which company was founded by Bill Gates ?-Microsoft-IBM-Adobe-Apple-1
+B-Science-What is the Atomic number of the chemical element Lithium ?-1-2-3-4-3
+B-Art-Who painted the famous Monalisa ?-Leo Da Vinci-Pablo Picasso-Vincent van Gogh-Andy Warhol-1
+B-Geography-What is the largest state in the USA ?-Alaska-California-Texas-Arizona-1
+B-History-What is the largest country in Africa ?-Sudan-Egypt-Algeria-Nigeria-3
+C-Sport-Who is the nation with the most africa cup titles ?-Algeria-Cameroon-Ghana-Egypt-4
+C-Cinema-Who has won the most Oscars ?-Katharine Hepburn-Leonardo Di Caprio-Walt Disney-Bradley Cooper-3
+C-Nature-The tiger is considered to be a ?-Reptile-Amphibians-Mammal-Fish-3
+C-Technology-Who invented the television ?-Thomas Edison-Alexander Graham Bell-Nikolas Tesla-John Logie Baird-4
+C-Science-Who is the first to document a solar eclipse ?-Galileo-Johann Julius-Johannes Kepler-Nasir al'Din al'Tusi-2
+C-Art-Which of these artworks is not for Andy Warhol ?-Campbell's Soup Cans-Shot Marilyns-The Starry Night-Marilyn Diptych-3
+C-Geography-What is the smallest country in the world ?-Vatican-Monaco-Panama-Bahamas-1
+C-History-Who was the first man in space ?-Liam Armestrong-Apollo-Yuri Gagarin-John Peterson-3
+D-Sport-What is the national sport of Canada ?-Soccer-Basketball-Hockey-Football-3
+D-Cinema-What was the first James Bond book ?-Casino Royal-Goldfinger-Moonraker-Skyfall-1
+D-Nature-What do deciduous trees do ?-Lose their leaves in winter-Changes color-Fall slowly-Grow fast-1
+D-Technology-What was the world’s first high level programming language 1957 ?-A-FORTRAN-C-Pascal-2
+D-Science-Who discovered radium ?-Marco Polo-Michael Faraday-The Curies-Louis Pasteur-3
+D-Art-Which Spanish painter has first exhibition at 16 ?-Vincent van Gogh-Salvador Dali-Andy Warhol-Pablo Picasso-4
+D-Geography-How many countries is in the world ?-128-156-195-271-3
+D-History-How long did the second world war last in years ?-6-7-9-20-1
+B-Sport-How many players form a team in the game of football ?-12-9-11-10-3
+B-Cinema-Where do people watch new movies ?-Movie Theater-Cinema-Opera-Blockbuster-1
+B-Nature-Which animal lays eggs ?-Crocodile-Dog-Bat-Whale-1
+B-Technology-Which one of the inventions came first ?-Television-Internet-Radio-Telephone-3
+B-Science-What is the chemical formula for water ?-HO2-H20-2HO-H2O2-2
+B-Art-Which of these is not considered as an art form ?-Painting-Music-Accounting-Dancing-3
+B-Geography-In which continant is Portugal located ?-Africa-Europe-Asia-South America-2
+B-History-At what year did Algeria gain its indepencence ?-1952-1830-1955-1962-4
+A-Sport-Who is the club of the centery in Europe ?-Barcelona-Manchester Unied-Real Madrid-Bayern Munich-3
+A-Cinema-What movie was starred by Will Smith ?-A Beautiful Mind-Lone Ranger-Pursuit Of Happyness-The Room-3
+A-Nature-What is the average livespan of a dog in years ?-5 to 8-10 to 13-15 to 16-20 to 22-2
+A-Technology-Which company was founded by Bill Gates ?-Microsoft-IBM-Adobe-Apple-1
+A-Science-What is the Atomic number of the chemical element Lithium ?-1-2-3-4-3
+A-Art-Who painted the famous Monalisa ?-Leo Da Vinci-Pablo Picasso-Vincent van Gogh-Andy Warhol-1
+A-Geography-What is the largest state in the USA ?-Alaska-California-Texas-Arizona-1
+A-History-What is the largest country in Africa ?-Sudan-Egypt-Algeria-Nigeria-3
+D-Sport-How many players form a team in the game of football ?-12-9-11-10-3
+D-Cinema-Who has won the most Oscars ?-Katharine Hepburn-Leonardo Di Caprio-Walt Disney-Bradley Cooper-3
+D-Nature-The tiger is considered to be a ?-Reptile-Amphibians-Mammal-Fish-3
+D-Technology-Who invented the television ?-Thomas Edison-Alexander Graham Bell-Nikolas Tesla-John Logie Baird-4
+D-Science-Who is the first to document a solar eclipse ?-Galileo-Johann Julius-Johannes Kepler-Nasir al-Din al-Tusi-2
+D-Art-Which of these artworks is not for Andy Warhol ?-Campbell's Soup Cans-Shot Marilyns-The Starry Night-Marilyn Diptych-3
+D-Geography-What is the smallest country in the world ?-Vatican-Monaco-Panama-Bahamas-1
+D-History-Who was the first man in space ?-Liam Armestrong-Apollo-Yuri Gagarin-John Peterson-3
+C-Sport-How many players form a team in the game of football ?-12-9-11-10-3
+C-Cinema-What was the first James Bond book ?-Casino Royal-Goldfinger-Moonraker-Skyfall-1
+C-Nature-What do deciduous trees do ?-Lose their leaves in winter-Changes color-Fall slowly-Grow fast-1
+C-Technology-What was the world’s first high level programming language 1957 ?-A-FORTRAN-C-Pascal-2
+C-Science-Who discovered radium ?-Marco Polo-Michael Faraday-The Curies-Louis Pasteur-3
+C-Art-Which Spanish painter has first exhibition at 16 ?-Vincent van Gogh-Salvador Dali-Andy Warhol-Pablo Picasso-4
+C-Geography-How many countries is in the world ?-128-156-195-271-3
+C-History-How long did the second world war last in years ?-6-7-9-20-1
