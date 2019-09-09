@@ -165,7 +165,7 @@ public class QuestionsWindow extends JFrame {
 		panel.add(choiceBtn4);
 		
 		JLabel lblNewLabel = new JLabel();
-		lblNewLabel.setIcon(new ImageIcon(Main.class.getResource("/6.JPG")));
+		lblNewLabel.setIcon(new ImageIcon(Main.class.getResource("/background_3.JPG")));
 		lblNewLabel.setBounds(2, 0, 714, 491);
 		contentPane.add(lblNewLabel);
 		setVisible(true);

@@ -110,7 +110,7 @@ public class Window extends JFrame{
 		panel.add(exitButton);
 		
 		JLabel lblNewLabel_1 = new JLabel("");
-		lblNewLabel_1.setIcon(new ImageIcon(Main.class.getResource("/quiz_logo2.png")));
+		lblNewLabel_1.setIcon(new ImageIcon(Main.class.getResource("/quiz_logo.png")));
 		lblNewLabel_1.setBounds(92, 47, 410, 134);
 		panel.add(lblNewLabel_1);
 		
