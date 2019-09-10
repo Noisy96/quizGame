@@ -2,7 +2,7 @@
 A quickly made quiz game using *Java Swing*
 
 
-_Screenshots:_<br />
+### Screenshots:
 ![](images/1.JPG) <br />
 ![](images/2.JPG) <br />
 ![](images/3.JPG) <br />
